@@ -4,7 +4,7 @@
      * This function allows doing 360 rotator animation with horizontal sprite
      * This library requires easeljs (http://createjs.com/easeljs)
      *
-     * @author aalonso@laliga.es
+     * @author alonsus91@gmail.com
      * @version 1.0.0
      * @param container
      * @param url_image
